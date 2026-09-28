@@ -1,0 +1,29 @@
+[
+  { "id": "review-009-01", "courseId": "course-009", "name": "Priya Sharma", "avatar": "/images/avatars/student-19.jpg", "rating": 5, "date": "2026-09-18", "comment": "Exactly what I needed to level up my design work. The capstone project gave me a real portfolio piece." },
+  { "id": "review-009-02", "courseId": "course-009", "name": "Marco Bianchi", "avatar": "/images/avatars/student-24.jpg", "rating": 5, "date": "2026-09-05", "comment": "The design principles module is outstanding. Color theory and typography finally clicked for me." },
+  { "id": "review-009-03", "courseId": "course-009", "name": "Kevin Osei", "avatar": "/images/avatars/student-22.jpg", "rating": 4, "date": "2026-08-22", "comment": "Lots of content and very practical. The monetization section was a nice bonus." },
+
+  { "id": "review-001-01", "courseId": "course-001", "name": "Liam Park", "avatar": "/images/avatars/student-01.jpg", "rating": 5, "date": "2026-07-14", "comment": "Finished my first song in a week. Ava explains everything clearly without overwhelming you." },
+  { "id": "review-001-02", "courseId": "course-001", "name": "Chloe Nguyen", "avatar": "/images/avatars/student-04.jpg", "rating": 4, "date": "2026-06-02", "comment": "Great for beginners. I'd love a follow-up course on vocal mixing." },
+
+  { "id": "review-002-01", "courseId": "course-002", "name": "Aisha Khan", "avatar": "/images/avatars/student-07.jpg", "rating": 5, "date": "2026-08-21", "comment": "The exercises are relaxing and my paintings improved so much." },
+  { "id": "review-002-02", "courseId": "course-002", "name": "Jacob Miller", "avatar": "/images/avatars/student-06.jpg", "rating": 4, "date": "2026-05-11", "comment": "Very well structured. The materials list saved me money." },
+
+  { "id": "review-003-01", "courseId": "course-003", "name": "Mia Chen", "avatar": "/images/avatars/student-09.jpg", "rating": 5, "date": "2026-09-02", "comment": "Helped me land my first marketing role. The templates are gold." },
+  { "id": "review-003-02", "courseId": "course-003", "name": "Lucas Silva", "avatar": "/images/avatars/student-10.jpg", "rating": 4, "date": "2026-07-19", "comment": "Dense but worth it. The ads section alone paid for the course." },
+
+  { "id": "review-004-01", "courseId": "course-004", "name": "Yuki Tanaka", "avatar": "/images/avatars/student-14.jpg", "rating": 5, "date": "2026-08-08", "comment": "My walk cycles finally look natural. Daniel is a fantastic teacher." },
+  { "id": "review-004-02", "courseId": "course-004", "name": "Ben Carter", "avatar": "/images/avatars/student-13.jpg", "rating": 5, "date": "2026-06-27", "comment": "Perfect pace and lots of hands-on practice." },
+
+  { "id": "review-005-01", "courseId": "course-005", "name": "Hannah Lee", "avatar": "/images/avatars/student-15.jpg", "rating": 5, "date": "2026-09-15", "comment": "Went from 300 to 5k followers in two months following this plan." },
+  { "id": "review-005-02", "courseId": "course-005", "name": "Ryan Scott", "avatar": "/images/avatars/student-18.jpg", "rating": 4, "date": "2026-08-01", "comment": "Actionable tips. Wish it covered YouTube too." },
+
+  { "id": "review-006-01", "courseId": "course-006", "name": "Priya Sharma", "avatar": "/images/avatars/student-19.jpg", "rating": 5, "date": "2026-09-10", "comment": "The best design course I've taken. The final project became my portfolio piece." },
+  { "id": "review-006-02", "courseId": "course-006", "name": "Kevin Osei", "avatar": "/images/avatars/student-22.jpg", "rating": 5, "date": "2026-07-30", "comment": "Clear, practical and beautifully presented." },
+
+  { "id": "review-007-01", "courseId": "course-007", "name": "Marco Bianchi", "avatar": "/images/avatars/student-24.jpg", "rating": 5, "date": "2026-08-17", "comment": "Changed how our agency approaches briefs. Highly recommend." },
+  { "id": "review-007-02", "courseId": "course-007", "name": "Grace Kim", "avatar": "/images/avatars/student-23.jpg", "rating": 4, "date": "2026-06-09", "comment": "Advanced but very rewarding. Great case studies." },
+
+  { "id": "review-008-01", "courseId": "course-008", "name": "Olivia Brown", "avatar": "/images/avatars/student-26.jpg", "rating": 5, "date": "2026-09-20", "comment": "My family now asks for pasta night every week!" },
+  { "id": "review-008-02", "courseId": "course-008", "name": "Diego Torres", "avatar": "/images/avatars/student-29.jpg", "rating": 5, "date": "2026-08-04", "comment": "Isabella makes it feel easy. The risotto lesson is perfect." }
+]

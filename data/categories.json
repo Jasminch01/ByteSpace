@@ -1,0 +1,10 @@
+[
+  { "id": "cat-music", "name": "Music", "slug": "music", "icon": "/icons/categories/music.svg" },
+  { "id": "cat-drawing-painting", "name": "Drawing & Painting", "slug": "drawing-painting", "icon": "/icons/categories/drawing-painting.svg" },
+  { "id": "cat-marketing", "name": "Marketing", "slug": "marketing", "icon": "/icons/categories/marketing.svg" },
+  { "id": "cat-animation", "name": "Animation", "slug": "animation", "icon": "/icons/categories/animation.svg" },
+  { "id": "cat-social-media", "name": "Social Media", "slug": "social-media", "icon": "/icons/categories/social-media.svg" },
+  { "id": "cat-ui-ux-design", "name": "UI/UX Design", "slug": "ui-ux-design", "icon": "/icons/categories/ui-ux-design.svg" },
+  { "id": "cat-creative-marketing", "name": "Creative Marketing", "slug": "creative-marketing", "icon": "/icons/categories/creative-marketing.svg" },
+  { "id": "cat-cooking", "name": "Cooking", "slug": "cooking", "icon": "/icons/categories/cooking.svg" }
+]

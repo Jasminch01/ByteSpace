@@ -1,0 +1,362 @@
+[
+  {
+    "id": "course-009",
+    "slug": "build-digital-assets",
+    "title": "Build Digital Asset: A Comprehensive Guide",
+    "subtitle": "Unlock the Power of Digital Creation with Expert Guidance",
+    "thumbnail": "/images/courses/build-digital-assets.jpg",
+    "categoryId": "cat-ui-ux-design",
+    "creatorId": "cr-purepearl-studio",
+    "level": "Intermediate",
+    "price": 99.99,
+    "currency": "USD",
+    "accessLevel": "Lifetime",
+    "rating": 4.8,
+    "reviewsCount": 172,
+    "studentsCount": 199,
+    "totalLessons": 112,
+    "duration": 1440,
+    "enrolledStudents": [
+      { "name": "Priya Sharma", "avatar": "/images/avatars/student-19.jpg" },
+      { "name": "Marco Bianchi", "avatar": "/images/avatars/student-24.jpg" },
+      { "name": "Hannah Lee", "avatar": "/images/avatars/student-15.jpg" },
+      { "name": "Kevin Osei", "avatar": "/images/avatars/student-22.jpg" }
+    ],
+    "description": [
+      "Embark on an enlightening exploration into the world of digital creation with our comprehensive course, \"Build Digital Assets: A Comprehensive Guide.\" This transformative learning experience invites you to delve deep into the intricacies of crafting impactful digital content. From laying the groundwork with foundational concepts to mastering advanced techniques, this guide is meticulously curated to empower you with the skills essential for navigating the dynamic landscape of digital asset creation.",
+      "In the initial modules, you'll establish a solid foundation by immersing yourself in the foundational concepts that form the backbone of digital asset creation. Understand the fundamental elements that constitute compelling digital content and gain proficiency in leveraging these elements to communicate effectively in the digital realm.",
+      "As you progress through the course, you'll ascend to higher levels of expertise, delving into the nuances of design principles that drive impactful creations. Uncover the secrets behind effective visual communication, exploring color theory, typography, and layout strategies that elevate your digital assets to new heights. Engage in hands-on exercises that reinforce your understanding, allowing you to apply these principles in practical scenarios."
+    ],
+    "sneakPeek": [
+      "/images/courses/build-digital-assets/sneak-peek-1.jpg",
+      "/images/courses/build-digital-assets/sneak-peek-2.jpg",
+      "/images/courses/build-digital-assets/sneak-peek-3.jpg",
+      "/images/courses/build-digital-assets/sneak-peek-4.jpg"
+    ],
+    "keyPoints": [
+      "Foundational Concepts",
+      "Design Principles Mastery",
+      "Advanced Techniques in Digital Creation",
+      "Project Showcase and Critique",
+      "Optimizing for Various Platforms",
+      "Digital Asset Management Best Practices",
+      "Monetization Strategies",
+      "Capstone Project: Building Your Portfolio"
+    ],
+    "includes": [
+      { "icon": "resources", "label": "Learning Resources" },
+      { "icon": "video", "label": "Quality Lesson Videos" },
+      { "icon": "certificate", "label": "Certificate of Completion" },
+      { "icon": "consultation", "label": "Private Consultation" }
+    ]
+  },
+  {
+    "id": "course-001",
+    "slug": "music-production-for-beginners",
+    "title": "Music Production for Beginners",
+    "subtitle": "Produce Your First Track from Start to Finish",
+    "thumbnail": "/images/courses/music-production-for-beginners.jpg",
+    "categoryId": "cat-music",
+    "creatorId": "cr-ava-thompson",
+    "level": "Beginner",
+    "price": 49.99,
+    "currency": "USD",
+    "accessLevel": "Lifetime",
+    "rating": 4.8,
+    "reviewsCount": 1243,
+    "studentsCount": 8452,
+    "totalLessons": 5,
+    "duration": 134,
+    "enrolledStudents": [
+      { "name": "Liam Park", "avatar": "/images/avatars/student-01.jpg" },
+      { "name": "Emma Wilson", "avatar": "/images/avatars/student-02.jpg" },
+      { "name": "Omar Haddad", "avatar": "/images/avatars/student-03.jpg" },
+      { "name": "Chloe Nguyen", "avatar": "/images/avatars/student-04.jpg" }
+    ],
+    "description": [
+      "Learn how to produce your first track from start to finish. This course walks you through beat making, melody, arrangement, mixing and exporting a finished song using free and affordable tools."
+    ],
+    "sneakPeek": [],
+    "keyPoints": [
+      "Understand the basics of a DAW and set up your first project",
+      "Create drum patterns, basslines and melodies",
+      "Arrange a full song with intro, verse, chorus and outro",
+      "Mix and export a release-ready track"
+    ],
+    "includes": [
+      { "icon": "resources", "label": "Learning Resources" },
+      { "icon": "video", "label": "Quality Lesson Videos" },
+      { "icon": "certificate", "label": "Certificate of Completion" }
+    ]
+  },
+  {
+    "id": "course-002",
+    "slug": "watercolor-painting-essentials",
+    "title": "Watercolor Painting Essentials",
+    "subtitle": "Paint Landscapes, Florals and Still Life with Confidence",
+    "thumbnail": "/images/courses/watercolor-painting-essentials.jpg",
+    "categoryId": "cat-drawing-painting",
+    "creatorId": "cr-daniel-reyes",
+    "level": "Beginner",
+    "price": 39.99,
+    "currency": "USD",
+    "accessLevel": "Lifetime",
+    "rating": 4.7,
+    "reviewsCount": 876,
+    "studentsCount": 5310,
+    "totalLessons": 4,
+    "duration": 107,
+    "enrolledStudents": [
+      { "name": "Sara Lopez", "avatar": "/images/avatars/student-05.jpg" },
+      { "name": "Jacob Miller", "avatar": "/images/avatars/student-06.jpg" },
+      { "name": "Aisha Khan", "avatar": "/images/avatars/student-07.jpg" }
+    ],
+    "description": [
+      "Discover the joy of watercolor. Learn how to control water and pigment, mix colors, and paint landscapes, florals and still life with confidence."
+    ],
+    "sneakPeek": [],
+    "keyPoints": [
+      "Choose the right paper, brushes and paints",
+      "Master wet-on-wet and wet-on-dry techniques",
+      "Mix harmonious color palettes",
+      "Complete three finished paintings"
+    ],
+    "includes": [
+      { "icon": "resources", "label": "Learning Resources" },
+      { "icon": "video", "label": "Quality Lesson Videos" },
+      { "icon": "certificate", "label": "Certificate of Completion" }
+    ]
+  },
+  {
+    "id": "course-003",
+    "slug": "digital-marketing-masterclass",
+    "title": "Digital Marketing Masterclass",
+    "subtitle": "Build a Marketing Plan for Any Business",
+    "thumbnail": "/images/courses/digital-marketing-masterclass.jpg",
+    "categoryId": "cat-marketing",
+    "creatorId": "cr-sofia-martins",
+    "level": "Intermediate",
+    "price": 79.99,
+    "currency": "USD",
+    "accessLevel": "Lifetime",
+    "rating": 4.6,
+    "reviewsCount": 2150,
+    "studentsCount": 14320,
+    "totalLessons": 5,
+    "duration": 170,
+    "enrolledStudents": [
+      { "name": "Ethan Brooks", "avatar": "/images/avatars/student-08.jpg" },
+      { "name": "Mia Chen", "avatar": "/images/avatars/student-09.jpg" },
+      { "name": "Lucas Silva", "avatar": "/images/avatars/student-10.jpg" },
+      { "name": "Zara Ahmed", "avatar": "/images/avatars/student-11.jpg" }
+    ],
+    "description": [
+      "A complete, practical guide to digital marketing: SEO, email, paid ads, content and analytics. Build a marketing plan you can apply to any business."
+    ],
+    "sneakPeek": [],
+    "keyPoints": [
+      "Build a full-funnel marketing strategy",
+      "Run and optimize paid ad campaigns",
+      "Grow organic traffic with SEO and content",
+      "Measure results with analytics dashboards"
+    ],
+    "includes": [
+      { "icon": "resources", "label": "Learning Resources" },
+      { "icon": "video", "label": "Quality Lesson Videos" },
+      { "icon": "certificate", "label": "Certificate of Completion" },
+      { "icon": "consultation", "label": "Private Consultation" }
+    ]
+  },
+  {
+    "id": "course-004",
+    "slug": "2d-animation-fundamentals",
+    "title": "2D Animation Fundamentals",
+    "subtitle": "Bring Your Drawings to Life Frame by Frame",
+    "thumbnail": "/images/courses/2d-animation-fundamentals.jpg",
+    "categoryId": "cat-animation",
+    "creatorId": "cr-daniel-reyes",
+    "level": "Beginner",
+    "price": 59.99,
+    "currency": "USD",
+    "accessLevel": "Lifetime",
+    "rating": 4.8,
+    "reviewsCount": 964,
+    "studentsCount": 6105,
+    "totalLessons": 4,
+    "duration": 134,
+    "enrolledStudents": [
+      { "name": "Noor Ali", "avatar": "/images/avatars/student-12.jpg" },
+      { "name": "Ben Carter", "avatar": "/images/avatars/student-13.jpg" },
+      { "name": "Yuki Tanaka", "avatar": "/images/avatars/student-14.jpg" }
+    ],
+    "description": [
+      "Bring your drawings to life. Learn the 12 principles of animation and create smooth character animations frame by frame."
+    ],
+    "sneakPeek": [],
+    "keyPoints": [
+      "Apply the 12 principles of animation",
+      "Animate bouncing balls, walk cycles and expressions",
+      "Use timing and spacing for believable motion",
+      "Export animations for social media and portfolios"
+    ],
+    "includes": [
+      { "icon": "resources", "label": "Learning Resources" },
+      { "icon": "video", "label": "Quality Lesson Videos" },
+      { "icon": "certificate", "label": "Certificate of Completion" }
+    ]
+  },
+  {
+    "id": "course-005",
+    "slug": "social-media-growth-blueprint",
+    "title": "Social Media Growth Blueprint",
+    "subtitle": "Grow an Engaged Audience and Turn Followers into Customers",
+    "thumbnail": "/images/courses/social-media-growth-blueprint.jpg",
+    "categoryId": "cat-social-media",
+    "creatorId": "cr-sofia-martins",
+    "level": "Beginner",
+    "price": 44.99,
+    "currency": "USD",
+    "accessLevel": "1 Year",
+    "rating": 4.5,
+    "reviewsCount": 1578,
+    "studentsCount": 11240,
+    "totalLessons": 4,
+    "duration": 103,
+    "enrolledStudents": [
+      { "name": "Hannah Lee", "avatar": "/images/avatars/student-15.jpg" },
+      { "name": "Carlos Diaz", "avatar": "/images/avatars/student-16.jpg" },
+      { "name": "Fatima Noor", "avatar": "/images/avatars/student-17.jpg" },
+      { "name": "Ryan Scott", "avatar": "/images/avatars/student-18.jpg" }
+    ],
+    "description": [
+      "Grow an engaged audience on Instagram, TikTok and LinkedIn. Learn content planning, short-form video and how to turn followers into customers."
+    ],
+    "sneakPeek": [],
+    "keyPoints": [
+      "Define your niche and content pillars",
+      "Plan a 30-day content calendar",
+      "Create short-form videos that get reach",
+      "Convert followers into customers"
+    ],
+    "includes": [
+      { "icon": "resources", "label": "Learning Resources" },
+      { "icon": "video", "label": "Quality Lesson Videos" }
+    ]
+  },
+  {
+    "id": "course-006",
+    "slug": "ui-ux-design-from-scratch",
+    "title": "UI/UX Design from Scratch",
+    "subtitle": "Go from Zero to a Portfolio-Ready Designer",
+    "thumbnail": "/images/courses/ui-ux-design-from-scratch.jpg",
+    "categoryId": "cat-ui-ux-design",
+    "creatorId": "cr-noah-kim",
+    "level": "Beginner",
+    "price": 69.99,
+    "currency": "USD",
+    "accessLevel": "Lifetime",
+    "rating": 4.9,
+    "reviewsCount": 2890,
+    "studentsCount": 17680,
+    "totalLessons": 5,
+    "duration": 170,
+    "enrolledStudents": [
+      { "name": "Priya Sharma", "avatar": "/images/avatars/student-19.jpg" },
+      { "name": "Tom Becker", "avatar": "/images/avatars/student-20.jpg" },
+      { "name": "Layla Hassan", "avatar": "/images/avatars/student-21.jpg" },
+      { "name": "Kevin Osei", "avatar": "/images/avatars/student-22.jpg" }
+    ],
+    "description": [
+      "Go from zero to a portfolio-ready designer. Learn user research, wireframing, visual design and prototyping in Figma through a real project."
+    ],
+    "sneakPeek": [],
+    "keyPoints": [
+      "Run user research and build personas",
+      "Create wireframes and user flows",
+      "Design clean, accessible interfaces",
+      "Build interactive prototypes in Figma"
+    ],
+    "includes": [
+      { "icon": "resources", "label": "Learning Resources" },
+      { "icon": "video", "label": "Quality Lesson Videos" },
+      { "icon": "certificate", "label": "Certificate of Completion" },
+      { "icon": "consultation", "label": "Private Consultation" }
+    ]
+  },
+  {
+    "id": "course-007",
+    "slug": "creative-campaigns-that-convert",
+    "title": "Creative Campaigns That Convert",
+    "subtitle": "Craft Memorable Campaigns That Drive Real Results",
+    "thumbnail": "/images/courses/creative-campaigns-that-convert.jpg",
+    "categoryId": "cat-creative-marketing",
+    "creatorId": "cr-sofia-martins",
+    "level": "Advanced",
+    "price": 89.99,
+    "currency": "USD",
+    "accessLevel": "Lifetime",
+    "rating": 4.7,
+    "reviewsCount": 642,
+    "studentsCount": 3980,
+    "totalLessons": 4,
+    "duration": 115,
+    "enrolledStudents": [
+      { "name": "Grace Kim", "avatar": "/images/avatars/student-23.jpg" },
+      { "name": "Marco Bianchi", "avatar": "/images/avatars/student-24.jpg" },
+      { "name": "Amara Obi", "avatar": "/images/avatars/student-25.jpg" }
+    ],
+    "description": [
+      "Learn how top brands craft memorable campaigns. From big ideas to storytelling and launch, build creative work that drives real results."
+    ],
+    "sneakPeek": [],
+    "keyPoints": [
+      "Generate and pitch big campaign ideas",
+      "Write compelling brand stories and copy",
+      "Plan multi-channel campaign launches",
+      "Measure creative performance"
+    ],
+    "includes": [
+      { "icon": "resources", "label": "Learning Resources" },
+      { "icon": "video", "label": "Quality Lesson Videos" },
+      { "icon": "certificate", "label": "Certificate of Completion" }
+    ]
+  },
+  {
+    "id": "course-008",
+    "slug": "italian-home-cooking",
+    "title": "Italian Home Cooking",
+    "subtitle": "Cook Authentic Italian Dishes at Home",
+    "thumbnail": "/images/courses/italian-home-cooking.jpg",
+    "categoryId": "cat-cooking",
+    "creatorId": "cr-isabella-rossi",
+    "level": "Beginner",
+    "price": 29.99,
+    "currency": "USD",
+    "accessLevel": "Lifetime",
+    "rating": 4.9,
+    "reviewsCount": 1120,
+    "studentsCount": 7215,
+    "totalLessons": 5,
+    "duration": 111,
+    "enrolledStudents": [
+      { "name": "Olivia Brown", "avatar": "/images/avatars/student-26.jpg" },
+      { "name": "Ahmed Rahman", "avatar": "/images/avatars/student-27.jpg" },
+      { "name": "Sophie Martin", "avatar": "/images/avatars/student-28.jpg" },
+      { "name": "Diego Torres", "avatar": "/images/avatars/student-29.jpg" }
+    ],
+    "description": [
+      "Cook authentic Italian dishes at home. Make fresh pasta, classic sauces, risotto and desserts with simple ingredients and step-by-step guidance."
+    ],
+    "sneakPeek": [],
+    "keyPoints": [
+      "Make fresh pasta by hand",
+      "Cook five classic Italian sauces",
+      "Prepare a creamy risotto",
+      "Finish with a homemade tiramisu"
+    ],
+    "includes": [
+      { "icon": "resources", "label": "Learning Resources" },
+      { "icon": "video", "label": "Quality Lesson Videos" }
+    ]
+  }
+]
