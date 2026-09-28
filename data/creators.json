@@ -1,0 +1,68 @@
+[
+  {
+    "id": "cr-purepearl-studio",
+    "slug": "purepearl-studio",
+    "name": "PurePearl Studio",
+    "avatar": "/images/creators/purepearl-studio.jpg",
+    "title": "Digital Design Studio",
+    "details": "PurePearl Studio is a creative team specialising in digital asset creation, visual design and branding, helping creators build and monetize professional digital products.",
+    "productCount": 1,
+    "followers": 4870,
+    "courses": ["course-009"]
+  },
+  {
+    "id": "cr-ava-thompson",
+    "slug": "ava-thompson",
+    "name": "Ava Thompson",
+    "avatar": "/images/creators/ava-thompson.jpg",
+    "title": "Music Producer & Songwriter",
+    "details": "Ava has produced records for independent artists for over 10 years and teaches practical, studio-ready music production for beginners.",
+    "productCount": 1,
+    "followers": 12840,
+    "courses": ["course-001"]
+  },
+  {
+    "id": "cr-daniel-reyes",
+    "slug": "daniel-reyes",
+    "name": "Daniel Reyes",
+    "avatar": "/images/creators/daniel-reyes.jpg",
+    "title": "Illustrator & 2D Animator",
+    "details": "Daniel is a freelance illustrator and animator whose work has appeared in children's books, music videos and indie games.",
+    "productCount": 2,
+    "followers": 20315,
+    "courses": ["course-002", "course-004"]
+  },
+  {
+    "id": "cr-sofia-martins",
+    "slug": "sofia-martins",
+    "name": "Sofia Martins",
+    "avatar": "/images/creators/sofia-martins.jpg",
+    "title": "Brand Strategist & Growth Marketer",
+    "details": "Sofia has led marketing for early-stage startups and global brands, focusing on storytelling, content and data-driven growth.",
+    "productCount": 3,
+    "followers": 31502,
+    "courses": ["course-003", "course-005", "course-007"]
+  },
+  {
+    "id": "cr-noah-kim",
+    "slug": "noah-kim",
+    "name": "Noah Kim",
+    "avatar": "/images/creators/noah-kim.jpg",
+    "title": "Senior Product Designer",
+    "details": "Noah designs products used by millions and mentors aspiring designers on research, wireframing and building polished interfaces in Figma.",
+    "productCount": 1,
+    "followers": 18760,
+    "courses": ["course-006"]
+  },
+  {
+    "id": "cr-isabella-rossi",
+    "slug": "isabella-rossi",
+    "name": "Isabella Rossi",
+    "avatar": "/images/creators/isabella-rossi.jpg",
+    "title": "Chef & Food Educator",
+    "details": "Isabella trained in Florence and has run her own kitchen for eight years. She teaches home cooks to cook confidently with simple ingredients.",
+    "productCount": 1,
+    "followers": 9420,
+    "courses": ["course-008"]
+  }
+]

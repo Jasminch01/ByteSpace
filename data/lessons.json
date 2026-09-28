@@ -1,0 +1,49 @@
+[
+  { "id": "lesson-009-01", "courseId": "course-009", "order": 1, "title": "Introduction to Digital Assets", "duration": 45, "isPreview": true },
+  { "id": "lesson-009-02", "courseId": "course-009", "order": 2, "title": "Design Principles for Impacts", "duration": 60, "isPreview": false },
+  { "id": "lesson-009-03", "courseId": "course-009", "order": 3, "title": "Advanced Techniques in Digital Creation", "duration": 75, "isPreview": false },
+
+  { "id": "lesson-001-01", "courseId": "course-001", "order": 1, "title": "Welcome & Course Overview", "duration": 6, "isPreview": true },
+  { "id": "lesson-001-02", "courseId": "course-001", "order": 2, "title": "Setting Up Your DAW", "duration": 18, "isPreview": true },
+  { "id": "lesson-001-03", "courseId": "course-001", "order": 3, "title": "Building Your First Beat", "duration": 32, "isPreview": false },
+  { "id": "lesson-001-04", "courseId": "course-001", "order": 4, "title": "Writing Melodies & Chords", "duration": 41, "isPreview": false },
+  { "id": "lesson-001-05", "courseId": "course-001", "order": 5, "title": "Mixing Basics", "duration": 37, "isPreview": false },
+
+  { "id": "lesson-002-01", "courseId": "course-002", "order": 1, "title": "Materials You Need", "duration": 10, "isPreview": true },
+  { "id": "lesson-002-02", "courseId": "course-002", "order": 2, "title": "Controlling Water & Pigment", "duration": 24, "isPreview": false },
+  { "id": "lesson-002-03", "courseId": "course-002", "order": 3, "title": "Painting a Simple Landscape", "duration": 38, "isPreview": false },
+  { "id": "lesson-002-04", "courseId": "course-002", "order": 4, "title": "Loose Florals", "duration": 35, "isPreview": false },
+
+  { "id": "lesson-003-01", "courseId": "course-003", "order": 1, "title": "The Modern Marketing Funnel", "duration": 15, "isPreview": true },
+  { "id": "lesson-003-02", "courseId": "course-003", "order": 2, "title": "SEO Fundamentals", "duration": 42, "isPreview": false },
+  { "id": "lesson-003-03", "courseId": "course-003", "order": 3, "title": "Email Marketing That Works", "duration": 36, "isPreview": false },
+  { "id": "lesson-003-04", "courseId": "course-003", "order": 4, "title": "Paid Ads on Google & Meta", "duration": 48, "isPreview": false },
+  { "id": "lesson-003-05", "courseId": "course-003", "order": 5, "title": "Reading Your Analytics", "duration": 29, "isPreview": false },
+
+  { "id": "lesson-004-01", "courseId": "course-004", "order": 1, "title": "The 12 Principles of Animation", "duration": 22, "isPreview": true },
+  { "id": "lesson-004-02", "courseId": "course-004", "order": 2, "title": "The Bouncing Ball", "duration": 28, "isPreview": false },
+  { "id": "lesson-004-03", "courseId": "course-004", "order": 3, "title": "Creating a Walk Cycle", "duration": 45, "isPreview": false },
+  { "id": "lesson-004-04", "courseId": "course-004", "order": 4, "title": "Facial Expressions & Lip Sync", "duration": 39, "isPreview": false },
+
+  { "id": "lesson-005-01", "courseId": "course-005", "order": 1, "title": "Finding Your Niche", "duration": 14, "isPreview": true },
+  { "id": "lesson-005-02", "courseId": "course-005", "order": 2, "title": "Content Pillars & Planning", "duration": 26, "isPreview": false },
+  { "id": "lesson-005-03", "courseId": "course-005", "order": 3, "title": "Short-Form Video Formula", "duration": 33, "isPreview": false },
+  { "id": "lesson-005-04", "courseId": "course-005", "order": 4, "title": "From Followers to Customers", "duration": 30, "isPreview": false },
+
+  { "id": "lesson-006-01", "courseId": "course-006", "order": 1, "title": "What Is UI/UX Design?", "duration": 12, "isPreview": true },
+  { "id": "lesson-006-02", "courseId": "course-006", "order": 2, "title": "User Research & Personas", "duration": 34, "isPreview": false },
+  { "id": "lesson-006-03", "courseId": "course-006", "order": 3, "title": "Wireframes & User Flows", "duration": 40, "isPreview": false },
+  { "id": "lesson-006-04", "courseId": "course-006", "order": 4, "title": "Visual Design Principles", "duration": 46, "isPreview": false },
+  { "id": "lesson-006-05", "courseId": "course-006", "order": 5, "title": "Prototyping in Figma", "duration": 38, "isPreview": false },
+
+  { "id": "lesson-007-01", "courseId": "course-007", "order": 1, "title": "Anatomy of a Great Campaign", "duration": 18, "isPreview": true },
+  { "id": "lesson-007-02", "courseId": "course-007", "order": 2, "title": "Finding the Big Idea", "duration": 31, "isPreview": false },
+  { "id": "lesson-007-03", "courseId": "course-007", "order": 3, "title": "Storytelling & Copywriting", "duration": 37, "isPreview": false },
+  { "id": "lesson-007-04", "courseId": "course-007", "order": 4, "title": "Launch & Measure", "duration": 29, "isPreview": false },
+
+  { "id": "lesson-008-01", "courseId": "course-008", "order": 1, "title": "The Italian Pantry", "duration": 9, "isPreview": true },
+  { "id": "lesson-008-02", "courseId": "course-008", "order": 2, "title": "Fresh Pasta by Hand", "duration": 27, "isPreview": false },
+  { "id": "lesson-008-03", "courseId": "course-008", "order": 3, "title": "Five Classic Sauces", "duration": 35, "isPreview": false },
+  { "id": "lesson-008-04", "courseId": "course-008", "order": 4, "title": "Perfect Risotto", "duration": 22, "isPreview": false },
+  { "id": "lesson-008-05", "courseId": "course-008", "order": 5, "title": "Homemade Tiramisu", "duration": 18, "isPreview": false }
+]
